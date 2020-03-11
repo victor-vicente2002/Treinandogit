@@ -1,3 +1,0 @@
-# Treinandogit
-
-treinando
